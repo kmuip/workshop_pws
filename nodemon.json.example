@@ -1,0 +1,9 @@
+{
+    "env": {
+      "API_URL": "https://passwordsafe-domain.ch/api",
+      "PWS_DB": "Database name",
+      "PWS_USERNAME": "API user username",
+      "PWS_PASSWORD": "API user password"
+    }
+  }
+  
